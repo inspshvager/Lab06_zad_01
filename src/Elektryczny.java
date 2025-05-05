@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public interface Elektryczny {
+    void naladuj();
+
+    int poziomNaladowania();
 }
